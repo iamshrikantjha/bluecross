@@ -6,6 +6,7 @@ import {
 
 import AppNavigator from './src/navigation/index';
 
+// Main Application Entry Point
 const App = () => {
   return (
     <>
