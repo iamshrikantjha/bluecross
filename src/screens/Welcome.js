@@ -48,7 +48,7 @@ const Welcome = (props) => {
 
             fontSize: hp(3),
           }}>
-          BLUE CROSS
+          BLUE CROSS APPLICATION
         </Text>
       </View>
 
