@@ -9,6 +9,8 @@ import Entypo from 'react-native-vector-icons/Entypo';
 import FontAwesome5 from 'react-native-vector-icons/FontAwesome5';
 import Header from "./../components/Header";
 
+// Entry for enduser 
+
 class GetIn extends Component {
     render(props) {
         return (
